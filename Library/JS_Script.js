@@ -44,3 +44,4 @@ status.style.color = STATUS_MAP.shelf.color;
 reserve.textContent = STATUS_MAP.shelf.canReserve ? 'enabled' : 'disabled';
 checkout.textContent = STATUS_MAP.shelf.canCheckout ? 'enabled' : 'disabled';
 checkin.textContent = STATUS_MAP.shelf.canCheckIn ? 'enabled' : 'disabled';
+
